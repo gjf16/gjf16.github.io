@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Grant Foster</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Grant Foster</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2019 16:11:03 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Next Attempt</title>
+      <link>http://example.org/posts/my-next-attempt/</link>
+      <pubDate>Wed, 26 Jun 2019 16:11:03 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-next-attempt/</guid>
+      <description>Lets get this bread</description>
+    </item>
+    
+    <item>
+      <title>Attempt</title>
+      <link>http://example.org/posts/attempt/</link>
+      <pubDate>Wed, 12 Jun 2019 09:51:14 +0100</pubDate>
+      
+      <guid>http://example.org/posts/attempt/</guid>
+      <description>Here I am trying to change the theme for the first time. Lets wish me luck!</description>
+    </item>
+    
+    <item>
+      <title>“My Background“</title>
+      <link>http://example.org/posts/background/</link>
+      <pubDate>Tue, 28 May 2019 20:44:13 +0100</pubDate>
+      
+      <guid>http://example.org/posts/background/</guid>
+      <description>My name is Grant Foster, and I am from New Jersey in the United States. I am a recent graduate of the University of Miami, where I studied Neuroscience and Chemistry. I was a research assistant during my time, first in Biophysics and Physiology, then switched into Cognitive Neuroscience. I am now taking my future into the field of Medical Devices &amp;amp; Diagnostics. Here at iX, I am in the crash course of Data Science!</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Mon, 27 May 2019 20:44:13 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Hello! And Welcome! This is the start of my blog, where I will keep notes on my experience through iXperience!</description>
+    </item>
+    
+  </channel>
+</rss>
